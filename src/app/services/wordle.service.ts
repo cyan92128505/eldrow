@@ -1,5 +1,6 @@
 import { Injectable } from '@angular/core';
 import { WordleDict } from './wordle.data';
+import { Buffer } from 'buffer';
 
 @Injectable({
   providedIn: 'root',
